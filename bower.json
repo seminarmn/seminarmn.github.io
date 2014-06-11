@@ -1,0 +1,30 @@
+{
+  "name": "masegalab.github.io",
+  "version": "0.1.0",
+  "homepage": "https://github.com/masegalab/masegalab.github.io",
+  "authors": [
+    "Pablo Navarro Castillo <pnavarrc@gmail.com>"
+  ],
+  "description": "Masega Lab",
+  "main": "index.md",
+  "keywords": [
+    "masega",
+    "d3"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.1.1",
+    "d3": "~3.4.5",
+    "d3-geo-projection": "https://github.com/d3/d3-geo-projection.git#~0.2.9",
+    "topojson": "~1.6.7",
+    "panama-network": "https://github.com/poderopedia/panama-network.git#~0.2.0"
+  }
+}
