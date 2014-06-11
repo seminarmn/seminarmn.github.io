@@ -1,0 +1,14 @@
+# Jekyll Configuration
+safe: true
+markdown: rdiscount
+pigments: true
+permalink: pretty
+exclude:
+    - node_modules
+    - Gruntfile.js
+    - bower.json
+    - package.json
+
+# Site
+name: Seminar
+baseurl: http://seminarmn.github.io/
