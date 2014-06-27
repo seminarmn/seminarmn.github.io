@@ -9,9 +9,6 @@ exclude:
     - bower.json
     - package.json
 
-<<<<<<< HEAD
-=======
 # Site
-name: Seminar
-baseurl: http://seminarmn.github.io/
->>>>>>> 42eefc99516ee0df69c82f73eef924a97dfe404b
+name: Masega
+baseurl: http://masegalab.github.io/
