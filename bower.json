@@ -1,0 +1,31 @@
+{
+  "name": "curso-d3-basico",
+  "version": "0.1.0",
+  "homepage": "https://github.com/seminarmn/seminarmn.github.io",
+  "authors": [
+    "Gregorio Moreno <gregorio@masega.co>"
+  ],
+  "description": "Material para el curso 'Visualización de datos con D3'",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "seminar",
+    "Núcleo Milenio",
+    "Probability"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.1.1",
+    "d3": "~3.4.8"
+  }
+}
